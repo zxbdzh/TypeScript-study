@@ -136,4 +136,8 @@ dist
 .pnp.*
 
 # js typescript不需要js
+*.js
 .js
+
+# .idea
+.idea
