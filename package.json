@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@rxliuli/tsgo": "^2025.3.18"
+  }
+}
