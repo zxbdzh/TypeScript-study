@@ -18,4 +18,4 @@ arr3 = [100, 'hello', 'world']
 arr3 = [100]
 
 // 不可以赋值
-arr1 = ['hello', 123, false]
+// arr1 = ['hello', 123, false]
